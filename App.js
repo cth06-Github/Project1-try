@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.firstcontainer}>
     <View style={styles.secondcontainer}></View>
       <Text style={styles.paragraph}>
-      I think coding is huhuhuhuh at first.
+      I think coding is Gitgitgit at first.
       </Text>
     <View style={styles.thirdcontainer}></View>
       <Text style={styles.paragraph}>
